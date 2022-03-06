@@ -6,3 +6,8 @@ Beside, I also visualize time to run those algorithms and compare each other.
 You can see full code in heapsort.cpp, mergesort.cpp, quicksort.cpp. And in main.cpp, I will call those algorithms. Because I think it will make code is clearlly and easy to see.
 
 You can see the detailed running time of each algorithm through each data set in the file
+
+# More detailed about data
+- 1st-data: Inscrement 
+- 2nd-data: Descrement
+- Other data are random 
