@@ -11,3 +11,4 @@ You can see the detailed running time of each algorithm through each data set in
 - 1st-data: Inscrement 
 - 2nd-data: Descrement
 - Other data are random 
+* More detail, you can go to file create_data to deep understand
