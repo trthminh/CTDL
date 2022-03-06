@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646545120 source:f:\c++\ctdl\b2\sort_algorithms\main.cpp
+	<bits/stdc++.h>
+	"heapsort.cpp"
+	"mergesort.cpp"
+	"quicksort.cpp"
+
+1646305214 f:\c++\ctdl\b2\sort_algorithms\heapsort.cpp
+
+1646305079 f:\c++\ctdl\b2\sort_algorithms\mergesort.cpp
+
+1646306023 f:\c++\ctdl\b2\sort_algorithms\quicksort.cpp
+
