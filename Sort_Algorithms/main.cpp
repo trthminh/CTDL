@@ -28,8 +28,12 @@ int main()
         for (int i = 1; i <= MAX; ++i)
         {
             double x;
+            cin >> x;
             a.push_back(x);
         }
+//        for (int i = 0; i < 10; ++i)
+//            cout << a[i] << " ";
+//        cout << '\n';
         double st, en;
         st = clock();
         heapsort(a, a.size());
@@ -58,5 +62,6 @@ int main()
         cout << '\n';
         a.clear();
     }
+
     return 0;
 }
